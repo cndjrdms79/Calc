@@ -1,6 +1,4 @@
 # Calc
-## GetDlgItemInt
+## GetDlgItemInt(EDIT명)
 
-## SetDlgItemInt
-
-## 이용한 계산기만들기
+## SetDlgItemInt(EDIT명,변수)
