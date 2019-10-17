@@ -1,6 +1,6 @@
 # Calc
-##GetDlgItemInt
+## GetDlgItemInt
 
-##SetDlgItemInt
+## SetDlgItemInt
 
-##이용한 계산기만들기
+## 이용한 계산기만들기
